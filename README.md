@@ -117,7 +117,9 @@ class HilPatel:
 
 <div align="center">
 
-![Hil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamHil&show_icons=true&theme=dark&bg_color=0a1628&title_color=cc0000&icon_color=cc0000&text_color=aabbcc&border_color=cc000044&hide_border=false)
+![Hil's GitHub Stats]
+
+[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=IamHil)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamHil&layout=compact&theme=dark&bg_color=0a1628&title_color=cc0000&text_color=aabbcc&border_color=cc000044)
 
