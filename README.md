@@ -121,7 +121,8 @@ class HilPatel:
 
   <br />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=IamHil&theme=onedark" alt="github-profile-trophy" />
+  <!-- Using a mirror endpoint for high availability -->
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=IamHil&theme=onedark" alt="github-profile-trophy" />
 
 </div>
 
