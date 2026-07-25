@@ -117,9 +117,11 @@ class HilPatel:
 
 <div align="center">
 
-[![Hil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamHil&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=IamHil&show_icons=true&theme=onedark" alt="Hil's GitHub Stats" />
 
-[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=IamHil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <br />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=IamHil&theme=onedark" alt="github-profile-trophy" />
 
 </div>
 
